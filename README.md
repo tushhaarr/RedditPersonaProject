@@ -36,6 +36,7 @@ The script will:
 # Output Example
 Sample output file (`Hungry-Move-6603_persona.txt`):
 User Persona for u/Hungry-Move-6603
+
 Name (Alias): Hungry-Move-6603
 Goals/Interests: Politics / Governance, Urban Living / Economy
 Personality: Reflective
@@ -43,8 +44,10 @@ Writing Style: Detailed
 Activity Level: Low
 Sample Insight:
 uttar pradesh sarkar, adhiwakta, nyay palika, mahamantri, skoda laura, adrak lsson are a thing of past..
+
 Source Link:
 https://www.reddit.com/r/india/comments/xyz123/comment/abc456/
+
 Local AI Summary:
 This user frequently discusses regional governance, public systems, and economic trends with a reflective tone..
 
